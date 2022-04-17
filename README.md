@@ -25,7 +25,9 @@ Qualidade e Testes de Software
 
 Allan Abrahão
 
-#JMeter README
+# JMeter README
+
+## By The Apache Software Foundation
 
 <h1 align="center"><img src="https://jmeter.apache.org/images/logo.svg" alt="Apache JMeter logo" /></h1>
 
