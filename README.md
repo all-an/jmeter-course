@@ -16,6 +16,12 @@ Qualidade e Testes de Software
 - Java 17
 - JMeter 5.4.3
 
+<p align="center">
+        <a href="https://www.linkedin.com/in/allan-pereira-abrahao/">
+            <img align="center" width="1123" height="509"  src="/fluxo-execucao.png" />
+        </a>
+</p>
+
 ## Autores do curso:
 
 - Leandro Antunes Ugioni
