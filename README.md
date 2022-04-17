@@ -3,7 +3,7 @@
 
 ## Curso Udemy - JMeter - Testes de Performance - Abril 2022
 
-Automação de Testes com Selenium WebDriver e Java
+Qualidade e Testes de Software
 
 <p align="center">
         <a href="https://www.linkedin.com/in/allan-pereira-abrahao/">
